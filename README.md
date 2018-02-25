@@ -33,21 +33,6 @@ pip install tensorflow-gpu
 
 Use Jupyter notebook for running the IPYNB files
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 
 ## Authors
@@ -58,7 +43,7 @@ Give an example
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md] file for details
 
 ## Acknowledgments
 
