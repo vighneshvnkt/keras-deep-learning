@@ -1,6 +1,16 @@
 # Deep Learning and Cognitive Computing Assignments
 
 A list of all assignments of deep learning and cognitive computing
+'''
+Assignment 1 : Multi Layer Perceptron on cifar10 dataset to classify images
+Assignment 2 : Convolutional Neural Networks on cifar10 dataset to classify images
+Midterm Project :
+  a) TV Script generation using Simpsons dataset
+  b) English to French translation
+  c) Face generation using Generative Adverserial Networks
+Assignment 3 : Video classification on UFC11 dataset
+Final Project : News Headline generation
+'''
 
 ## Getting Started
 
