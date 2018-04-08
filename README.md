@@ -9,7 +9,7 @@ Midterm Project :
   b) English to French translation
   c) Face generation using Generative Adverserial Networks
 Assignment 3 : Video classification on UFC11 dataset
-Final Project : News Headline generation
+Final Project : News Headline generation and validation
 ```
 
 ## Getting Started
