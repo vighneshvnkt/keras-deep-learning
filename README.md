@@ -8,7 +8,7 @@ Midterm Project :
   a) TV Script generation using Simpsons dataset
   b) English to French translation
   c) Face generation using Generative Adverserial Networks
-Assignment 3 : Video classification on UFC11 dataset
+Assignment 3 : Video classification on UCF11 dataset
 Final Project : News Headline generation and validation
 ```
 
