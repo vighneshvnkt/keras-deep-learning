@@ -9,15 +9,15 @@ We have built a web application using flask framework in python that generates h
 * Install [Tensorflow](https://www.tensorflow.org/install/)
 * Neural networks are computations heavy, GPU configuration is recommended.
 
-### Data
+### Data:
 We have used [All the news dataset from kaggle](https://www.kaggle.com/snapcrack/all-the-news/data)
 Extract only title and content from the dataset. Later, we tokenized the title,content and saved it as a pickle file. We divided our data set into train, validation and test sets respectively.
 
-## Train / test
+## Train/test:
 Train() method inside “model_preparation.ipynb” notebook to train the model (run dependant functions first) <br>
 Test() method inside “odel_preparation.ipynb” to test model (run dependant functions first)
 
-## Running the web app
+## Running the web app:
 Run the app.ipynb notebook to start flask server and open web app
 
 
